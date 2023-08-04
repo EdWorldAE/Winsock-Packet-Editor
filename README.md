@@ -1,8 +1,6 @@
 # Winsock-Packet-Editor
 Winsock Packet Editor
 
-Certainly! Here's a detailed README for the Packet Editor application:
-
 ---
 
 # Packet Editor GUI
